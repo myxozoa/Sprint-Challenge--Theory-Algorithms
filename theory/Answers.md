@@ -13,8 +13,8 @@
 
 ![lion diagram](./lion.svg)
 
-`/\e\d+;\d+f/`
+`/\e[\d+;\d+f/`
 
-`/\e\d+m/`
+`/\e[\d+m/`
 
 ![vt-100](./vt-100.svg)
