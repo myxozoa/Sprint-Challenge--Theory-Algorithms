@@ -8,10 +8,13 @@
 
 ## State Machines
 
-ab*c+d?[ef]
+`ab*c+d?[ef]`
+![regex diagram](./regex.svg)
 
+![lion diagram](./lion.svg)
 
-//---- Cant take screenshots on my laptop because of some weird linux graphics driver problem ----//
+`/\e\d+;\d+f/`
 
-![Alt text](./regex.svg)
-<img src="./regex.svg">
+`/\e\d+m/`
+
+![vt-100](./vt-100.svg)
